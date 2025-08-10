@@ -22,7 +22,7 @@ data.txt          # High score storage
 
 ## ▶️ How to Run
 - Clone this repository:
-git clone https://github.com/YourUsername/Snake-Game.git
+git clone https://github.com/nishtha10m/Snake-Game.git
 - Navigate into the folder:
 cd Snake-Game
 - Run the game:
