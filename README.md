@@ -35,7 +35,8 @@ python main.py
 ➡ Right Arrow → Move Right
 
 ## 📸 Screenshot
-(Add a screenshot of your game here)
+![Snake Game Screenshot](snake_game.png)
+
 
 ## 💡 Future Improvements
 - Add multiple difficulty levels
